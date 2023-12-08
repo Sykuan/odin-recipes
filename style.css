@@ -1,0 +1,24 @@
+/* stylish ones */
+
+#odin-image {
+    width: 400px;
+    height: auto;
+    display: block; /* Ensures the margin works as expected */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+* {
+    font-family: "Trebuchet MS", sans-serif;
+}
+
+.title {
+    color: #FFD800;
+    font-weight: 800px;
+    text-align: center;
+    text-decoration: wavy;
+}
+
+.list-link {
+    color: #775E00;
+}
